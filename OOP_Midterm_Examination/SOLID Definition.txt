@@ -1,0 +1,1 @@
+﻿Define SOLID and give each letter its description. You may put your answers on this file.
