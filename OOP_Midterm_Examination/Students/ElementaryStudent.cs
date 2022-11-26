@@ -1,6 +1,6 @@
 ﻿namespace OOP_Midterm_Examination.Students
 {
-    public class ElementaryStudent : SeniorHighSchoolStudent
+    public class ElementaryStudent : Student
     {
     }
 }
